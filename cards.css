@@ -1,0 +1,79 @@
+#container{
+    width: 1000px;
+    height: 1245px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.boxpai{
+    height: 600px;
+    width: 305px;
+    border: solid;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-evenly;
+}
+#divcaixa{
+    display: flex;
+    align-items: center;
+}
+.caixacinza{
+    background-color: gray;
+    text-align: center;
+    height: 50px;
+    margin: 10px;
+}
+.box{
+    width: 305px;
+    height: 220px;
+}
+#ttlI{
+    margin-left: 20px;
+    margin-bottom:90px;
+}
+#txtI{
+    margin-left: 20px;
+    margin-bottom: 65px;
+}
+.boxI{
+    height: 350px;
+}
+.titulo{
+    margin-left: 20px;
+}
+.para{
+    margin-left: 20px;
+}
+#caixacinzaI{
+    background-color: gray;
+    text-align: center;
+    height: 50px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+#here{
+    margin-left: 35%;
+}
+
+#I{
+    background-image: url(img/49-536x354.jpg);
+}
+#II{
+    background-image: url(img/91-536x354.jpg);
+}
+#III{
+    background-image: url(img/372-536x354.jpg);
+}
+#IV{
+    background-image: url(img/474-536x354.jpg);
+}
+#V{
+    background-image: url(img/507-536x354.jpg);
+}
+#VI{
+    background-image: url(img/633-536x354.jpg);
+}
